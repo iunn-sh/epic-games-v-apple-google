@@ -22,6 +22,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
             npm install -g @marp-team/marp-cli@${{ env.MARP_CLI_VERSION }}
+            npm install -g @kazumatu981/markdown-it-kroki
             marp --theme theme/srd-theme.css presentation.md --html -o ./public/index.html
 
       - name: Deploy 🚀
