@@ -110,13 +110,13 @@ flowchart TB
 <span class='blue note'>
 
 > **[Walled Garden](https://en.wikipedia.org/wiki/Closed_platform)**
-> A closed platform, walled garden, or closed ecosystem is a software system wherein ==the carrier or service provider has control over applications, content, and/or media, and restricts convenient access to non-approved applicants or content==. This is in contrast to an open platform, wherein consumers generally have unrestricted access to applications and content. 
+> A closed platform, walled garden, or closed ecosystem is a software system wherein <mark>the carrier or service provider has control over applications, content, and/or media, and restricts convenient access to non-approved applicants or content</mark>. This is in contrast to an open platform, wherein consumers generally have unrestricted access to applications and content. 
 </span>
 
 <span class='green tip'>
 
 > **[Project Liberty](https://en.wikipedia.org/wiki/Epic_Games_v._Apple)**
-> As determined through the course of the trial, Epic initiated "Project Liberty" by first introducing a ==standard patch== to Fortnite that had to be approved by Apple and Google, but which had secretly contained code that would allow users to be able to purchase the in-game currency, =="V-Bucks"==, directly from Epic. Epic did not make mention of this feature to Apple or Google, so the patch was approved. Then, on August 13, 2020, Epic released a ==hotfix== (which did not require prior approval) to the mobile versions, triggering visibility of this purchasing option. At the same time, Epic announced for all platforms that purchases of V-Bucks directly through Epic would be ==discounted by 20%==. For iOS and Android users, Epic cautioned users that if they purchased through the Apple or Google storefront, they were not given this discount, as Epic said they could not extend the discount due to the 30% revenue cut taken by Apple and Google.
+> As determined through the course of the trial, Epic initiated "Project Liberty" by first introducing a <mark>standard patch</mark> to Fortnite that had to be approved by Apple and Google, but which had secretly contained code that would allow users to be able to purchase the in-game currency, <mark>"V-Bucks"</mark>, directly from Epic. Epic did not make mention of this feature to Apple or Google, so the patch was approved. Then, on August 13, 2020, Epic released a <mark>hotfix</mark> (which did not require prior approval) to the mobile versions, triggering visibility of this purchasing option. At the same time, Epic announced for all platforms that purchases of V-Bucks directly through Epic would be <mark>discounted by 20%</mark>. For iOS and Android users, Epic cautioned users that if they purchased through the Apple or Google storefront, they were not given this discount, as Epic said they could not extend the discount due to the 30% revenue cut taken by Apple and Google.
 </span>
 
 ---
@@ -268,7 +268,7 @@ United States District Court for the Northern District of California
 United States District Court for the Northern District of California
 `2021.09.10`
 
-8. Apple將限制引導條款納入與Epic之間的授權協議之中，限制Epic與消費者之間針對Apple in-app purchase的替代方法進行溝通之能力，==anti-steering屬於不公平商業行為==；
+8. Apple將限制引導條款納入與Epic之間的授權協議之中，限制Epic與消費者之間針對Apple in-app purchase的替代方法進行溝通之能力，<mark>anti-steering屬於不公平商業行為</mark>；
 9. Apple有權基於針對Epic違反授權協議所提出之反訴獲得救濟；惟
 10. 授權協議中的賠償條款未授權Apple向Epic請求律師費用。 :arrow_right: 上訴法院看法不同
 
@@ -285,7 +285,7 @@ United States District Court for the Northern District of California
 - Epic構成違約行為，法院要求Epic應就2020年8月至10月之間自iOS Fortnite所收取的USD 12,160,000，以及其後至判決日期為止所獲取的所有收入，以兩者加總的30%作為應賠償予Apple之金額。
 - Apple的「限制引導條款」向消費者隱瞞了關鍵資訊並非法地扼殺消費者之選擇；在限制引導條款構成反競爭之下，Apple需在全美範圍之內採取補救措施，藉以消弭相關條款產生之影響。
 
-> In sum, given the totality of the record, and its underdeveloped state, while the Court can conclude that Apple exercises market power in the mobile gaming market, the Court cannot conclude that Apple's market power reaches the status of monopoly power in the mobile gaming market.  That said, the evidence does suggest that Apple is near the precipice of substantial market power, or monopoly power, with its considerable market share.  ==Apple is only saved by the fact that its share is not higher, that competitors from related submarkets are making inroads into the mobile gaming submarket, and, perhaps, because plaintiff did not focus on this topic.==
+> In sum, given the totality of the record, and its underdeveloped state, while the Court can conclude that Apple exercises market power in the mobile gaming market, the Court cannot conclude that Apple's market power reaches the status of monopoly power in the mobile gaming market.  That said, the evidence does suggest that Apple is near the precipice of substantial market power, or monopoly power, with its considerable market share.  <mark>Apple is only saved by the fact that its share is not higher, that competitors from related submarkets are making inroads into the mobile gaming submarket, and, perhaps, because plaintiff did not focus on this topic.</mark>
 
 ---
 
@@ -299,7 +299,7 @@ United States Court of Appeals for the 9th Circuit
 大部分維持地方法院判決
 > 1. Market Definition: We agree that the district court erred in certain aspects of its market-definition analysis but conclude that those errors were harmless.
 > 2. Sherman Act Section 1 (Unreasonable Restraint): We agree with Epic on its first and third arguments but find the errors to be harmless; we reject Epic's and Apple's remaining arguments.
-> 3. Sherman Act Section 1 (Tying): We agree with Epic that the district court clearly erred in its separate-products finding, but we find that error to be harmless.  The Rule of Reason applies to the tie involved here, and, for the reasons already explained, ==Epic failed to establish that Apple's design of the iOS ecosystem—which ties the App Store and IAP together—is anticompetitive==.
+> 3. Sherman Act Section 1 (Tying): We agree with Epic that the district court clearly erred in its separate-products finding, but we find that error to be harmless.  The Rule of Reason applies to the tie involved here, and, for the reasons already explained, <mark>Epic failed to establish that Apple's design of the iOS ecosystem—which ties the App Store and IAP together—is anticompetitive</mark>.
 > 4. Sherman Act Section 2 (Monopoly Maintenance): We affirm the district court's rejection of Section 2 liability.  Epic does not argue on appeal that the district court clearly erred in finding that Apple lacks monopoly power in the mobile-games market. It argues only that the district court erred in rejecting its single-brand markets in which Apple would have a 100% market share—an argument we reject above. ... Moreover, even assuming Apple has monopoly power, Epic failed to prove Apple's conduct was anticompetitive.
 
 ---
@@ -313,7 +313,7 @@ United States Court of Appeals for the 9th Circuit
 
 大部分維持地方法院判決
 > 5. Breach of Contract: The parties agree that Epic's illegality defense rises and falls with its Sherman Act claims.  Because we affirm the district court's holding that Epic failed to prove Apple's liability pursuant to the Sherman Act, we also affirm its rejection of Epic's illegality defenses.
-> 6. California's Unfair Competition Law: The district court found that Epic suffered an injury sufficient to confer Article III standing, concluded that ==Apple's anti-steering provision violates the UCL's unfair prong, and entered an injunction prohibiting Apple from enforcing the anti-steering provision against any developer==. Apple challenges each aspect on appeal. ==We affirm.== :arrow_right: anti-steering屬於不公平商業行為
+> 6. California's Unfair Competition Law: The district court found that Epic suffered an injury sufficient to confer Article III standing, concluded that <mark>Apple's anti-steering provision violates the UCL's unfair prong, and entered an injunction prohibiting Apple from enforcing the anti-steering provision against any developer</mark>. Apple challenges each aspect on appeal. <mark>We affirm.</mark> :arrow_right: anti-steering屬於不公平商業行為
 > 7. Attorney Fees: We hold that clause (i) contemplates intra-party disputes and Apple is entitled to attorney fees pursuant to it. :arrow_right: Epic應賠償律師費（與地方法院看法不同）
 
 ---
@@ -339,8 +339,8 @@ United States Court of Appeals for the 9th Circuit
 ### 市場界定
 
 地方法院
-> - Ultimately, after evaluating the trial evidence, the Court finds that the relevant market here is digital mobile gaming transactions, not gaming generally and not Apple's own internal operating systems related to the App Store.  The mobile gaming market itself is a $100 billion industry.  The size of this market explains Epic Games' motive in bringing this action.  ==Having penetrated all other video game markets, the mobile gaming market was Epic Games' next target and it views Apple as an impediment.==
-> - Further, the evidence demonstrates that ==most App Store revenue is generated by mobile gaming apps, not all apps==.  Thus, defining the market to focus on gaming apps is appropriate.  Generally speaking, on a revenue basis, gaming apps account for approximately 70% of all App Store revenues.  This 70% of revenue is generated by less than 10% of all App Store consumers.  ==These gaming-app consumers are primarily making in-app purchases which is the focus of Epic Games' claims.==  By contrast, over 80% of all consumer accounts generate virtually no revenue, as 80% of all apps on the App Store are free. 
+> - Ultimately, after evaluating the trial evidence, the Court finds that the relevant market here is digital mobile gaming transactions, not gaming generally and not Apple's own internal operating systems related to the App Store.  The mobile gaming market itself is a $100 billion industry.  The size of this market explains Epic Games' motive in bringing this action.  <mark>Having penetrated all other video game markets, the mobile gaming market was Epic Games' next target and it views Apple as an impediment.</mark>
+> - Further, the evidence demonstrates that <mark>most App Store revenue is generated by mobile gaming apps, not all apps</mark>.  Thus, defining the market to focus on gaming apps is appropriate.  Generally speaking, on a revenue basis, gaming apps account for approximately 70% of all App Store revenues.  This 70% of revenue is generated by less than 10% of all App Store consumers.  <mark>These gaming-app consumers are primarily making in-app purchases which is the focus of Epic Games' claims.</mark>  By contrast, over 80% of all consumer accounts generate virtually no revenue, as 80% of all apps on the App Store are free. 
 
 ---
 
@@ -431,7 +431,7 @@ United States District Court for the Northern District of California
 6. Epic prove that Google entered into one or more agreements that unreasonably restrained trade in a relevant antitrust market.
 7. The agreements to be unreasonable restraint(s) of trade
     1. DDA agreements
-    2. Agreements with Google's alleged competitors or potential competitors under ==Project Hug== or Games Velocity Program
+    2. Agreements with Google's alleged competitors or potential competitors under <mark>Project Hug</mark> or Games Velocity Program
     3. Agreements with OEMs that sell mobile devices (including MADA and RSA agreements)
 8. Relevant product market of 6 (= :iphone: & :dollar:)
 9. Epic prove that is was injured as a result of Google's violation of the antitrust laws.
@@ -451,7 +451,7 @@ United States District Court for the Northern District of California
 <span class='blue note'>
 
 > **Project Hug** (summarized by上訴法院)
-> When Epic suddenly posed a threat to the Play Store's dominance, Google went further still.  In 2018, Epic initially told Google that it would not be introducing an Android version of Fortnite on the Play Store.  Google feared that the game's off-Play launch could "legitimize" another Android app store and create "contagion" leading other software developers to leave the Play Store.  To defend against that scenario, ==Google initiated Project Hug: a series of special agreements with 22 top game developers==, including Activision (creator of the popular video game *Call of Duty*), ==under which the developers received cash payments and other benefits not to launch on any Android app store other than the Play Store==.
+> When Epic suddenly posed a threat to the Play Store's dominance, Google went further still.  In 2018, Epic initially told Google that it would not be introducing an Android version of Fortnite on the Play Store.  Google feared that the game's off-Play launch could "legitimize" another Android app store and create "contagion" leading other software developers to leave the Play Store.  To defend against that scenario, <mark>Google initiated Project Hug: a series of special agreements with 22 top game developers</mark>, including Activision (creator of the popular video game *Call of Duty*), <mark>under which the developers received cash payments and other benefits not to launch on any Android app store other than the Play Store</mark>.
 </span>
 
 ---
@@ -464,8 +464,8 @@ United States Court of Appeals for the 9th Circuit
 `2025.07.31`
 
 維持地方法院判決
-> - After a 15-day trial involving 45 witnesses, the jury found that Google had violated federal and state antitrust laws in the markets for Android app distribution and Android in-app billing services. The district court held extensive post-trial proceedings and then entered a permanent injunction against Google to restore market competition. ==We affirm the jury's verdict and uphold the district court's injunction.==
-> - The jury found that Epic had proven the relevant product markets for Android app distribution and Android in-app billing services and a relevant geographic market of "worldwide excluding China." The jury also found that Google violated both federal and California antitrust law by willfully acquiring or maintaining monopoly power in those markets, unreasonably restraining trade, and unlawfully tying use of the Play Store to Google Play Billing. The district court entered a ==three-year injunction== that prohibits Google from providing certain benefits to app distributors, developers, original equipment manufacturers, or carriers in exchange for advantaging the Play Store. 
+> - After a 15-day trial involving 45 witnesses, the jury found that Google had violated federal and state antitrust laws in the markets for Android app distribution and Android in-app billing services. The district court held extensive post-trial proceedings and then entered a permanent injunction against Google to restore market competition. <mark>We affirm the jury's verdict and uphold the district court's injunction.</mark>
+> - The jury found that Epic had proven the relevant product markets for Android app distribution and Android in-app billing services and a relevant geographic market of "worldwide excluding China." The jury also found that Google violated both federal and California antitrust law by willfully acquiring or maintaining monopoly power in those markets, unreasonably restraining trade, and unlawfully tying use of the Play Store to Google Play Billing. The district court entered a <mark>three-year injunction</mark> that prohibits Google from providing certain benefits to app distributors, developers, original equipment manufacturers, or carriers in exchange for advantaging the Play Store. 
 
 ---
 
@@ -477,10 +477,10 @@ United States Court of Appeals for the 9th Circuit
 `2025.07.31`
 
 上訴駁回
-> - The panel ==rejected== Google's claim that a decision in Apple's favor in a lawsuit Epic filed at the same time against Apple precludes Epic from defining the market differently in this case.
-> - The panel ==held== that the district court did not abuse its discretion in proceeding with a jury trial on Epic's equitable claims and Google's damages counterclaims.
-> - The panel ==held== that the district court did not abuse its discretion in declining to give a single-brand aftermarket jury instruction or in its framing of a Rule of Reason instruction.
-> - The panel ==held== that the injunction was supported by the jury's verdict as well as the district court's own findings.
+> - The panel <mark>rejected</mark> Google's claim that a decision in Apple's favor in a lawsuit Epic filed at the same time against Apple precludes Epic from defining the market differently in this case.
+> - The panel <mark>held</mark> that the district court did not abuse its discretion in proceeding with a jury trial on Epic's equitable claims and Google's damages counterclaims.
+> - The panel <mark>held<mark> that the district court did not abuse its discretion in declining to give a single-brand aftermarket jury instruction or in its framing of a Rule of Reason instruction.
+> - The panel <mark>held</mark> that the injunction was supported by the jury's verdict as well as the district court's own findings.
 
 ---
 
@@ -492,9 +492,9 @@ United States Court of Appeals for the 9th Circuit
 `2025.07.31`
 
 市場界定：Apple案 != Google案，不等者不等之
-> Reviewing de novo, we agree with the district court that the market definition in Epic's suit against Apple is not preclusive in this litigation. ... Google homes in on the finding in Epic v. Apple that Apple and Google are competitors in the market for "digital mobile gaming transactions." ... ==That single determination, however, does not preclude an independent analysis of the very different relationship between Epic and Google, the relevant submarket in the Android platform, or the distinct market-definition issues in the two suits==.
+> Reviewing de novo, we agree with the district court that the market definition in Epic's suit against Apple is not preclusive in this litigation. ... Google homes in on the finding in Epic v. Apple that Apple and Google are competitors in the market for "digital mobile gaming transactions." ... <mark>That single determination, however, does not preclude an independent analysis of the very different relationship between Epic and Google, the relevant submarket in the Android platform, or the distinct market-definition issues in the two suits</mark>.
 > - It is well established that the relevant market "can be determined only after a factual inquiry into the 'commercial realities' faced by consumers."
-> - To begin, the commercial realities are different.  ==Apple's "walled garden" is, as the district court in Apple noted, markedly different from Google's "open distribution" approach.== ... As a consequence of its business model, Apple does not license iOS to other OEMs in the way that Google licenses Android to Samsung, Motorola, and other smartphone manufacturers. ... Apple's "walled garden" also creates different dynamics in app distribution channels. ==Apple's iPhones do not support any third-party app stores, and iOS disables direct downloads of apps from the web.==
+> - To begin, the commercial realities are different.  <mark>Apple's "walled garden" is, as the district court in Apple noted, markedly different from Google's "open distribution" approach.</mark> ... As a consequence of its business model, Apple does not license iOS to other OEMs in the way that Google licenses Android to Samsung, Motorola, and other smartphone manufacturers. ... Apple's "walled garden" also creates different dynamics in app distribution channels. <mark>Apple's iPhones do not support any third-party app stores, and iOS disables direct downloads of apps from the web.</mark>
 
 ---
 
@@ -503,8 +503,8 @@ United States Court of Appeals for the 9th Circuit
 ### 市場界定
 
 上訴法院 :balance_scale: 「Gaming within the Android ecosystem」
-> - It is of little consequence that Apple and Google were previously found to compete in the market for "digital mobile gaming transactions" in the Apple litigation. ... ==The Google trial focused on gaming within the Android ecosystem.==  That the markets in this case—for Android app distribution and Android in-app billing—overlap with or may constitute submarkets of the "digital mobile gaming transactions" market does not make them identical markets. 
-> - Although ==Google and Apple== compete for mobile-gaming downloads and mobile-gaming in-app transactions, they ==do not compete in the Android-only app distribution and in-app billing markets==, where Google competes against Samsung, Amazon, and others.
+> - It is of little consequence that Apple and Google were previously found to compete in the market for "digital mobile gaming transactions" in the Apple litigation. ... <mark>The Google trial focused on gaming within the Android ecosystem.</mark>  That the markets in this case—for Android app distribution and Android in-app billing—overlap with or may constitute submarkets of the "digital mobile gaming transactions" market does not make them identical markets. 
+> - Although <mark>Google and Apple</mark> compete for mobile-gaming downloads and mobile-gaming in-app transactions, they <mark>do not compete in the Android-only app distribution and in-app billing markets</mark>, where Google competes against Samsung, Amazon, and others.
 
 | iOS | Android | PC | Console | Streaming |
 | --- | --- | --- | --- | --- | 
@@ -518,7 +518,7 @@ United States Court of Appeals for the 9th Circuit
 ### 市場界定
 
 上訴法院：Google案應獨立判斷，Apple案無法比附援引
-> At bottom, Google's preclusion argument fails due to the absence of an identical issue.  ==The Apple litigation involved market realities and theories of anticompetitive harms that were separate and distinct from those involved in this case.==  Epic's allegations against Google required an ==independent analysis== to determine the relevant market.  And the harm-specific market definition applicable here was not "actually litigated" or "decided" in *Apple*.
+> At bottom, Google's preclusion argument fails due to the absence of an identical issue.  <mark>The Apple litigation involved market realities and theories of anticompetitive harms that were separate and distinct from those involved in this case.</mark>  Epic's allegations against Google required an <mark>independent analysis</mark> to determine the relevant market.  And the harm-specific market definition applicable here was not "actually litigated" or "decided" in *Apple*.
 
 ---
 
