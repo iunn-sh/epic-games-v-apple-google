@@ -68,7 +68,9 @@ Timeline
 
 <div>
 
-```mermaid
+![](https://kroki.io/mermaid/svg/eNpLy8kvT85ILCpRCHHiUgCC4tKk9KLEggwFIwNDc7AICCQaRnvmZZZkJpakxoIFU_NSMJRbwJUnGUYHpeakJhbjVm1kAFedbBjtk1ial5yhkJ-nkOkfrOBYUKAQXJJflKqgr-Cen5-ek6oQkJNYCRFDNRHkSgVbWzuE_SAGVMTIAABn8znu)
+
+<!-- ```mermaid
 flowchart TB
     subgraph 2017
         a1[Initiate]
@@ -81,7 +83,7 @@ flowchart TB
     end
     2017 ==> 2018
     2018 ==> 2020
-```
+``` -->
 
 </div>
 
@@ -198,7 +200,9 @@ Apple / Google：審核（安全性、品質）的守門人有償並無不當，
 - [The man behind Fortnite is making the riskiest bet of his career. The payoff could be huge](https://edition.cnn.com/2021/02/10/tech/tim-sweeney-epic-games-risk-takers/index.html) 2021.02.10
 - [Fortnite: Epic Games sues Google and Apple over app store bans](https://www.bbc.com/news/technology-53777379) 2020.08.14
 
-```mermaid
+![](https://kroki.io/mermaid/svg/eNqVjrFOwzAQhnee4pZuOeRLQhFsFYWKIQ_Q0UrcEDWxq_ioYANGdhBInRgQEgNIMMD7QNS8BcENRR2Qyj9-58_6UqmZN6AZZ5wr2J9kMQxkoSwg9HQDy2PLsCetsu5ZIlkdmLKQDDBshlGE_b47yZPM_pw6w81O0f4bjw81q3Iqc-gWRvPRgptEnkayHKsSzGjkmFUxZ0bDFHqTSa4c-97n7Lm6fq9erurbOwd2iyxXlo1WHkjywBc-odhBEh5QsvQ-3i7nD69_eb7zAhQh-uGKNz9_qi_uq9lZ_XjT2itm4MwQBSF1l-Zv_cCYdN38lNoM8pFo_fx0kb-FYhsD-k9-GrQmCRQu_wsXK6z5)
+
+<!-- ```mermaid
 gantt
     title Epic Games - Antitrust Cases
     dateFormat  YYYY-MM-DD
@@ -213,7 +217,7 @@ gantt
         地方法院     :milestone, g1, 2023-12-11, 1d
         上訴法院     :milestone, g2, 2025-07-31, 1d
         聯邦最高法院 :milestone, g3, 2025-10-06, 1d
-```
+``` -->
 
 ---
 
