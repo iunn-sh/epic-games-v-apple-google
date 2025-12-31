@@ -23,8 +23,9 @@ jobs:
         run: |
             npm install -g @marp-team/marp-cli@${{ env.MARP_CLI_VERSION }}
             marp --theme-set theme/srd-theme.css -- presentation.md --html -o ./public/index.html
+            ls -al
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: ./public # The folder the action should deploy.
+          folder: public # The folder the action should deploy.
