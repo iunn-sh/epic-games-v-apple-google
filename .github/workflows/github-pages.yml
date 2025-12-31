@@ -24,6 +24,7 @@ jobs:
             npm install -g @marp-team/marp-cli@${{ env.MARP_CLI_VERSION }}
             marp --theme-set theme/srd-theme.css -- presentation.md --html -o ./public/index.html
             ls -al
+            mkdir public
             cp presentation.html ./public/index.html
             ls -al
             cd public
