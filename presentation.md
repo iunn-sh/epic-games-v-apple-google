@@ -61,7 +61,7 @@ Timeline
 > - [LEGO® Fortnite Odyssey](https://www.fortnite.com/@epic/lego-fortnite-odyssey)
 > - [LEGO® Fortnite Brick Life](https://www.fortnite.com/@epic/lego-fortnite-brick-life)
 > - [Rocket Racing](https://www.fortnite.com/@epic/rocket-racing)
-> - Fortnite Festival (includes [Festival Main Stage](https://www.fortnite.com/@epic/festival-main-stage), [Festival Jam Stage](https://www.fortnite.com/@epic/festival-jam-stage), and [Festival Battle Stage](https://www.fortnite.com/@epic/festival-battle-stage))
+> - Fortnite Festival (includes [Festival Main Stage](https://www.fortnite.com/@epic/festival-main-stage), [Festival Jam Stage](https://www.fortnite.com/@epic/festival-jam-stage), and [Festival Battle Stage](https://www.fortnite.com/@epic/festival-battle-stage))
 > - [Fortnite Save the World](https://www.fortnite.com/@epic/save-the-world)
 
 </div>
