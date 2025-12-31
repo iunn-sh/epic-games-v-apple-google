@@ -11,9 +11,14 @@
 
  @import 'default';
  /* @import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; */
- @import url("https://cdn.jsdelivr.net/npm/github-markdown-css@5.8.1/github-markdown.min.css")
  @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
  
+ a {
+   background-color: transparent;
+   color: #0969da;
+   text-decoration: none;
+ }
+
  img {
    background-color: transparent;
  }
