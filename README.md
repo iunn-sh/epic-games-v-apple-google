@@ -6,7 +6,6 @@
 * Theme [pakitochus/srd-marpit-theme](https://github.com/pakitochus/srd-marpit-theme)
 * Diagram [Kroki](https://kroki.io/)
 * Logo [Simple Icons](https://simpleicons.org)
-* Icon [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ```
 # install
